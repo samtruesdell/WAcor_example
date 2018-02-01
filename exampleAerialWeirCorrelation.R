@@ -3,6 +3,8 @@
 # variables: weir and aerial survey standard
 # deviations, the correlation between the surveys
 # and the number of samples
+# 
+# test
 
 sd_weir <- 10
 sd_aerial <- 50
