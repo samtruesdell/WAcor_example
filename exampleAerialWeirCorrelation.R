@@ -4,6 +4,10 @@
 # deviations, the correlation between the surveys
 # and the number of samples
 
+
+###SOME TEST NUIMBERS
+
+
 sd_weir <- 10
 sd_aerial <- 50
 cor_wa <- 0.5
