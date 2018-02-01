@@ -6,8 +6,6 @@
 # 
 
 
-###SOME TEST NUIMBERS
-
 
 sd_weir <- 10
 sd_aerial <- 50
