@@ -26,6 +26,8 @@ diag(cvmat) <- sds^2
 # the mean values
 x0 <- matrix(rep(seq(200, 300, length.out=n),2), ncol=2)
 
+xTEST <- 32
+
 # get the deviations from the mean
 x1 <- rmvnorm(n, mean=c(0, 0), sigma=cvmat)
 
