@@ -28,6 +28,12 @@ x0 <- matrix(rep(seq(200, 300, length.out=n),2), ncol=2)
 
 xTEST <- 32
 
+# here is a change
+ytest <- 33.3
+
+#another change
+ztest =0
+
 # get the deviations from the mean
 x1 <- rmvnorm(n, mean=c(0, 0), sigma=cvmat)
 
