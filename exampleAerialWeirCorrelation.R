@@ -28,6 +28,19 @@ x0 <- matrix(rep(seq(200, 300, length.out=n),2), ncol=2)
 
 xTEST <- 32
 
+
+
+
+#here i make a bunch of changes
+x <- rnorm(1000)
+
+z <- rnorm(25)
+
+
+# test branch changes
+
+
+
 # here is a change
 ytest <- 33.3
 
